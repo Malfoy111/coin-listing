@@ -24,7 +24,7 @@ Nama coin dan tema
 - rekomendasi wallet
 - partner exchanger
 - template sy sudah beli kemaren
-  - [Themeforest](https://themeforest.net/item/tradio-cryptocurrency-exchange-dashboard-html-template/25997237) tinggal edit 
+  - [Themeforest](https://themeforest.net/item/tradio-cryptocurrency-exchange-dashboard-html-template/25997237,target="_blank") tinggal edit 
 - community
   - ini adalah harga yang sangat mahal dan sulit dan pastinya butuh waktu lama
   - buat telegram group dan isi dengan beberapa info tentang koin tersebut, event, info airdrop, info airdrop koin lain, atau info dice bot
