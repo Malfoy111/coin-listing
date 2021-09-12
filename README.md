@@ -9,15 +9,15 @@ Nama coin dan tema
 ### Decimal : 18
 ### Total supply : 1.000.000.000.000
 
-clone code [code]('https://bscscan.com/address/0xf2e00684457de1a3c87361bc4bfe2de92342306c#code', 'target=_blank')
+Clone code [shieldnet](https://bscscan.com/address/0xf2e00684457de1a3c87361bc4bfe2de92342306c#code, "_blank")
 
-[website]('https://chartlist.xyz','target=_blank')
+[website](https://chartlist.xyz, "_blank")
 
-> tax fee 2% ( back to liquidity adder  ) <br>
-> liquidity fee 4% ( back to deployer ) <br>
-> burn fee 2% 
+> 2% tax fee ( back to liquidity adder  ) <br>
+> 4% liquidity fee ( back to deployer ) <br>
+> 2% burn fee
 
-total fee 8%
+Total fee 8%
 
 ### Supply for share 
 >75% liquidity adder ( investor ) <br>
